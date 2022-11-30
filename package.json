@@ -1,5 +1,5 @@
 {
-  "name": "numberguessing",
+  "name": "guessnumberaus",
   "version": "1.0.0",
   "description": "",
   "main": "./bin/index.js",
@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "numberguessing": "./bin/index.js"
+    "guessnumberaus": "./bin/index.js"
   },
   "type": "module",
   "keywords": [],
