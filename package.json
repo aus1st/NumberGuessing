@@ -1,0 +1,29 @@
+{
+  "name": "numberguessing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "numberguessing": "./bin/index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/figlet": "^1.5.5",
+    "@types/gradient-string": "^1.1.2",
+    "@types/inquirer": "^9.0.3"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "figlet": "^1.5.2",
+    "gradient": "^0.2.0",
+    "gradient-string": "^2.0.2",
+    "inquirer": "^9.1.4"
+  }
+}
